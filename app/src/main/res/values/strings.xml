@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Charge Hotspot Automator</string>
+    <string name="accessibility_label">Charge Hotspot Automator</string>
+    <string name="accessibility_description">Automates Android Settings screens to switch hotspot quickly when charging state changes.</string>
+</resources>
